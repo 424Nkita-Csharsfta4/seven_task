@@ -1,5 +1,5 @@
 # seven_task
-
+```
  public  void task_three()
         {
             WriteLine("Введи бал от 1 до 4: ");
@@ -27,7 +27,8 @@
                 }
             }
         }
-        
+   ````
+   ````
         public  void task_two()
         {
             Write("Введите число ");
@@ -44,3 +45,4 @@
                     WriteLine("Числа равны");
             }
         }
+        ````

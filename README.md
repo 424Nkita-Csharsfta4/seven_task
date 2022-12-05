@@ -23,6 +23,31 @@
         }
     }
 ````
+````
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Четырнадцатая_программа
+{
+class Program
+{
+static void Main(string[] args)
+{
+double x, y;
+Console.Write("x = ");
+double.TryParse(Console.ReadLine(), out x);
+Console.Write("y = ");
+double.TryParse(Console.ReadLine(), out y);
+if ((x < -23 | y < 0)) Console.WriteLine("Да");
+else if (x < -23 || y > 0) Console.WriteLine("Нет");
+else Console.WriteLine("На границе");
+Console.ReadLine();
+}
+}
+}
+````
 ```
  public  void task_three()
         {

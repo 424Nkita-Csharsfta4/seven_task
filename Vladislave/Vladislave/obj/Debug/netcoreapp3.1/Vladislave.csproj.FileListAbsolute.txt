@@ -1,0 +1,14 @@
+C:\Users\tvc\source\repos\Vladislave\Vladislave\bin\Debug\netcoreapp3.1\Vladislave.exe
+C:\Users\tvc\source\repos\Vladislave\Vladislave\bin\Debug\netcoreapp3.1\Vladislave.deps.json
+C:\Users\tvc\source\repos\Vladislave\Vladislave\bin\Debug\netcoreapp3.1\Vladislave.runtimeconfig.json
+C:\Users\tvc\source\repos\Vladislave\Vladislave\bin\Debug\netcoreapp3.1\Vladislave.runtimeconfig.dev.json
+C:\Users\tvc\source\repos\Vladislave\Vladislave\bin\Debug\netcoreapp3.1\Vladislave.dll
+C:\Users\tvc\source\repos\Vladislave\Vladislave\bin\Debug\netcoreapp3.1\Vladislave.pdb
+C:\Users\tvc\source\repos\Vladislave\Vladislave\obj\Debug\netcoreapp3.1\Vladislave.csproj.AssemblyReference.cache
+C:\Users\tvc\source\repos\Vladislave\Vladislave\obj\Debug\netcoreapp3.1\Vladislave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tvc\source\repos\Vladislave\Vladislave\obj\Debug\netcoreapp3.1\Vladislave.AssemblyInfoInputs.cache
+C:\Users\tvc\source\repos\Vladislave\Vladislave\obj\Debug\netcoreapp3.1\Vladislave.AssemblyInfo.cs
+C:\Users\tvc\source\repos\Vladislave\Vladislave\obj\Debug\netcoreapp3.1\Vladislave.csproj.CoreCompileInputs.cache
+C:\Users\tvc\source\repos\Vladislave\Vladislave\obj\Debug\netcoreapp3.1\Vladislave.dll
+C:\Users\tvc\source\repos\Vladislave\Vladislave\obj\Debug\netcoreapp3.1\Vladislave.pdb
+C:\Users\tvc\source\repos\Vladislave\Vladislave\obj\Debug\netcoreapp3.1\Vladislave.genruntimeconfig.cache

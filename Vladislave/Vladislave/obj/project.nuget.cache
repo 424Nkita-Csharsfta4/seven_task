@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ABjaG6IJEv8sIIzMMFaDfSmpjE46L7pwwBOYDmUzEjNPJKERt86t0l9FcFoaE6eWSOkk279Dc/nxk1M3u5sKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tvc\\source\\repos\\Vladislave\\Vladislave\\Vladislave.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tvc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\tvc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\tvc\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
